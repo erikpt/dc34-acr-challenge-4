@@ -1,5 +1,5 @@
 # dc34-acr-challenge-4
-This is an archive of the challenge that consumed my time at DC34. 
+This is an archive of the challenge that consumed my time at DC34. Don't read the PDF unless you want to skip to the answer.
 
 
 [Link to ACR Discord](https://discord.gg/vtYnyjryb) to see all the challenges
